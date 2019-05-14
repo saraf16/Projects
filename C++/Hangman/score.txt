@@ -1,0 +1,6 @@
+Sara 5 1 0
+Nic -1 0 1
+Lucas 4 1 1
+Bobby 10 2 0
+Nonni 15 3 0
+Gulli 20 4 0
