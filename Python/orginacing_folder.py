@@ -5,7 +5,7 @@ import argparse
 import string
 import os
 
-#Orginacing a folder that is full of tv shows and movies
+#Organising a folder that is full of tv shows and movies
 
 # Helper function to move files
 def acronym(name, file):
