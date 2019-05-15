@@ -18,4 +18,4 @@ Two are in C++ projects that I did in a Data Structure course that I later was a
 * Prefix Parser is a program which takes input in the form of prefix notation, also called polish notation, i.e. / 10 5 and returns the outcome which is 2 in this case.  
 
 
-Also here is a Git repository for a 3 week course I did on my first year with 5 other students in C++: https://github.com/bennisverrir/Golfing-Union-of-Ireland
+Also here is a Git repository for a 3 week course I did on my first year with 5 other students in QI using C++: https://github.com/bennisverrir/Golfing-Union-of-Ireland
